@@ -1,1 +1,1 @@
-# ra-entry
+# The Robotics Accelerator entry task
